@@ -118,3 +118,68 @@
 [Wed Apr 15 11:35:38.886529 2015] [core:notice] [pid 22684:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
 [Wed Apr 15 11:35:38.980529 2015] [mpm_winnt:notice] [pid 22684:tid 148] AH00418: Parent: Created child process 20956
 [Wed Apr 15 11:35:40.322529 2015] [mpm_winnt:notice] [pid 20956:tid 564] AH00354: Child: Starting 150 worker threads.
+[Wed Apr 15 23:18:26.969682 2015] [core:warn] [pid 31020:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 15 23:18:27.181703 2015] [mpm_winnt:notice] [pid 31020:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Wed Apr 15 23:18:27.181703 2015] [mpm_winnt:notice] [pid 31020:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Wed Apr 15 23:18:27.181703 2015] [core:notice] [pid 31020:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Wed Apr 15 23:18:27.273712 2015] [mpm_winnt:notice] [pid 31020:tid 148] AH00418: Parent: Created child process 28064
+[Wed Apr 15 23:18:28.601845 2015] [mpm_winnt:notice] [pid 28064:tid 564] AH00354: Child: Starting 150 worker threads.
+[Wed May 06 08:00:23.215035 2015] [core:warn] [pid 12400:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 06 08:00:24.121216 2015] [mpm_winnt:notice] [pid 12400:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Wed May 06 08:00:24.121216 2015] [mpm_winnt:notice] [pid 12400:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Wed May 06 08:00:24.121216 2015] [core:notice] [pid 12400:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Wed May 06 08:00:24.347261 2015] [mpm_winnt:notice] [pid 12400:tid 148] AH00418: Parent: Created child process 12004
+[Wed May 06 08:00:27.125817 2015] [mpm_winnt:notice] [pid 12004:tid 564] AH00354: Child: Starting 150 worker threads.
+[Wed May 06 08:03:17.703926 2015] [core:error] [pid 12004:tid 1772] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:58155] AH00127: Cannot map GET /mw/index.php/MediaWiki:Sidebar HTTP/1.1 to file, referer: http://127.0.0.1/mw/index.php/Main_Page
+[Wed May 06 08:14:36.022189 2015] [core:error] [pid 12004:tid 1584] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:58667] AH00127: Cannot map GET /mw/index.php/Special:MovePage/The_NFV HTTP/1.1 to file, referer: http://127.0.0.1/mw/index.php/The_NFV
+[Wed May 06 15:53:11.657702 2015] [core:warn] [pid 9924:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 06 15:53:12.256702 2015] [mpm_winnt:notice] [pid 9924:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Wed May 06 15:53:12.256702 2015] [mpm_winnt:notice] [pid 9924:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Wed May 06 15:53:12.256702 2015] [core:notice] [pid 9924:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Wed May 06 15:53:12.356702 2015] [mpm_winnt:notice] [pid 9924:tid 148] AH00418: Parent: Created child process 12816
+[Wed May 06 15:53:14.667702 2015] [mpm_winnt:notice] [pid 12816:tid 564] AH00354: Child: Starting 150 worker threads.
+[Mon May 11 10:19:17.047665 2015] [core:warn] [pid 15080:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 11 10:19:17.931665 2015] [mpm_winnt:notice] [pid 15080:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Mon May 11 10:19:17.931665 2015] [mpm_winnt:notice] [pid 15080:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Mon May 11 10:19:17.931665 2015] [core:notice] [pid 15080:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Mon May 11 10:19:18.077665 2015] [mpm_winnt:notice] [pid 15080:tid 148] AH00418: Parent: Created child process 15092
+[Mon May 11 10:19:21.234665 2015] [mpm_winnt:notice] [pid 15092:tid 564] AH00354: Child: Starting 150 worker threads.
+[Mon May 11 10:20:10.054665 2015] [core:error] [pid 15092:tid 1748] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:49970] AH00127: Cannot map GET /mw/index.php/Special:RecentChanges HTTP/1.1 to file, referer: http://127.0.0.1/mw/index.php/Help_Test_Page
+[Tue Jun 16 12:34:17.222507 2015] [core:warn] [pid 21484:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jun 16 12:34:17.709556 2015] [mpm_winnt:notice] [pid 21484:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Tue Jun 16 12:34:17.709556 2015] [mpm_winnt:notice] [pid 21484:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Tue Jun 16 12:34:17.709556 2015] [core:notice] [pid 21484:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Tue Jun 16 12:34:17.807566 2015] [mpm_winnt:notice] [pid 21484:tid 148] AH00418: Parent: Created child process 11396
+[Tue Jun 16 12:34:18.913676 2015] [mpm_winnt:notice] [pid 11396:tid 564] AH00354: Child: Starting 150 worker threads.
+[Wed Jun 17 09:56:23.264285 2015] [core:warn] [pid 12700:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 17 09:56:23.867345 2015] [mpm_winnt:notice] [pid 12700:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Wed Jun 17 09:56:23.867345 2015] [mpm_winnt:notice] [pid 12700:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Wed Jun 17 09:56:23.867345 2015] [core:notice] [pid 12700:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Wed Jun 17 09:56:23.980357 2015] [mpm_winnt:notice] [pid 12700:tid 148] AH00418: Parent: Created child process 636
+[Wed Jun 17 09:56:25.616520 2015] [mpm_winnt:notice] [pid 636:tid 564] AH00354: Child: Starting 150 worker threads.
+[Tue Dec 01 18:16:59.726000 2015] [core:warn] [pid 12720:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 01 18:17:00.354000 2015] [mpm_winnt:notice] [pid 12720:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Tue Dec 01 18:17:00.355000 2015] [mpm_winnt:notice] [pid 12720:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Tue Dec 01 18:17:00.355000 2015] [core:notice] [pid 12720:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Tue Dec 01 18:17:00.431000 2015] [mpm_winnt:notice] [pid 12720:tid 148] AH00418: Parent: Created child process 12776
+[Tue Dec 01 18:17:01.622000 2015] [mpm_winnt:notice] [pid 12776:tid 568] AH00354: Child: Starting 150 worker threads.
+[Tue Dec 01 18:22:39.068661 2015] [authz_core:error] [pid 12776:tid 1764] [client 127.0.0.1:54220] AH01630: client denied by server configuration: C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/home/us_opt2, referer: http://localhost/
+[Tue Dec 01 18:36:13.908137 2015] [core:warn] [pid 12408:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 01 18:36:13.991145 2015] [mpm_winnt:notice] [pid 12408:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Tue Dec 01 18:36:13.991145 2015] [mpm_winnt:notice] [pid 12408:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Tue Dec 01 18:36:13.992145 2015] [core:notice] [pid 12408:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Tue Dec 01 18:36:14.073153 2015] [mpm_winnt:notice] [pid 12408:tid 148] AH00418: Parent: Created child process 10692
+[Tue Dec 01 18:36:15.256271 2015] [mpm_winnt:notice] [pid 10692:tid 568] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 02 16:54:37.896552 2015] [core:warn] [pid 20800:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 02 16:54:38.501613 2015] [mpm_winnt:notice] [pid 20800:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Wed Dec 02 16:54:38.502613 2015] [mpm_winnt:notice] [pid 20800:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Wed Dec 02 16:54:38.502613 2015] [core:notice] [pid 20800:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Wed Dec 02 16:54:38.599622 2015] [mpm_winnt:notice] [pid 20800:tid 148] AH00418: Parent: Created child process 20880
+[Wed Dec 02 16:54:41.015864 2015] [mpm_winnt:notice] [pid 20880:tid 568] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 02 19:26:01.302031 2015] [core:warn] [pid 24236:tid 148] AH00098: pid file C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 02 19:26:01.479048 2015] [mpm_winnt:notice] [pid 24236:tid 148] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Wed Dec 02 19:26:01.480048 2015] [mpm_winnt:notice] [pid 24236:tid 148] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Wed Dec 02 19:26:01.480048 2015] [core:notice] [pid 24236:tid 148] AH00094: Command line: 'C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/core/apache2 -f C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\vreck\\Documents\\80-WikiTools_etc\\UniServer\\core\\apache2'
+[Wed Dec 02 19:26:01.573058 2015] [mpm_winnt:notice] [pid 24236:tid 148] AH00418: Parent: Created child process 16264
+[Wed Dec 02 19:26:02.730173 2015] [mpm_winnt:notice] [pid 16264:tid 568] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 02 19:26:17.961696 2015] [authz_core:error] [pid 16264:tid 1764] [client 127.0.0.1:54738] AH01630: client denied by server configuration: C:/Users/vreck/Documents/80-WikiTools_etc/UniServer/home/us_opt2, referer: http://localhost/index.php

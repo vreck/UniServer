@@ -184,3 +184,4 @@ $wgAllowUserJs = true;
 # I added it to embed framasoft pages
 $wgRawHtml = true;
 
+# end of file
